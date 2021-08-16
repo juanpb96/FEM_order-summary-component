@@ -133,6 +133,7 @@ main {
         }
 
         .billing {
+            margin-bottom: 2rem;
             padding: 1.5625rem 1.5rem;
 
             &__plan {
@@ -162,6 +163,8 @@ main {
     }
 
     .btn {
+        margin-bottom: 2rem;
+
         &-primary { 
             &:hover {
                 background-color: $active-bright-blue;

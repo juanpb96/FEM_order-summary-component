@@ -141,6 +141,7 @@ main .billing__price {
     line-height: 1.625rem;
   }
   main .billing {
+    margin-bottom: 2rem;
     padding: 1.5625rem 1.5rem;
   }
   main .billing__plan {
@@ -172,6 +173,9 @@ main .billing__price {
     color: #1f2f56;
   }
 
+  .btn {
+    margin-bottom: 2rem;
+  }
   .btn-primary:hover {
     background-color: #756af1;
   }
