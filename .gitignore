@@ -17,4 +17,4 @@
 .sass-cache
 
 # Avoid md file
-*.md
+style-guide.md
